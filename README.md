@@ -1,1 +1,1 @@
-# Relogio_JS
+# Relogio utilizando HTML, CSS e JavaScript
